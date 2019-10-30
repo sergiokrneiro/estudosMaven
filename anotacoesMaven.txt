@@ -1,0 +1,7 @@
+Alguns comandos:
+
+mvn compile;
+mvn test;
+mvn surefire-report:report #Gera um relatório do projeto.
+mvn package #Gera um arquivo .jar do projeto.
+java -cp produtos-1.0-SNAPSHOT.jar br.com.alura.maven.App #Executa o programa no jar.
